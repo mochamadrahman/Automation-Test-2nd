@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Registrasi</name>
+   <tag></tag>
+   <comment>+------------Registrasi-----------------+
++-------------Login-----------------+
++--------------Verifikasi 1-----------------+
++--------------Verifikasi 2-----------------+
++--------------Verifikasi 3-----------------+</comment>
+   <testCaseGuid>8aa3362d-12e7-4758-a749-afacbfc6c192</testCaseGuid>
+</TestCaseEntity>

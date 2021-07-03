@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Verifikasi Tahap2</name>
+   <tag></tag>
+   <comment>+------------Registrasi-----------------+
++-------------Login-----------------+
++--------------Verifikasi 1-----------------+
++--------------Verifikasi 2-----------------+
++--------------Verifikasi 3-----------------+</comment>
+   <testCaseGuid>98bd7473-37f1-4340-9c06-8dfc3be6511d</testCaseGuid>
+</TestCaseEntity>
